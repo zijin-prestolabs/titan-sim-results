@@ -1,0 +1,604 @@
+[
+  {
+    "short": "smm_bnc_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_smm_binance_perpetual_2/titan/s_pnl_-00013757_pnl2mdd_0.51_roe_-2.56_ffr_0.90_sp_-0.04_nflip_80_ret_-7.01_model_smm_binance_perpetual_2_default_20260514-20260613.png",
+    "repo_rel": "fail/smm_bnc_2_titan.png"
+  },
+  {
+    "short": "smm_bnc_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_smm_binance_perpetual_2/coin/s_model_smm_binance_perpetual_2_pnlusd_+00000280_pnl2mdd_0.02_roe_0.00_ffr_0.91_nordday_0_sp_0.00_nflip_7378_ret_0.07__ms_Fu.Bi._Sp.Bi.USDT__sde_False_tbis_120.png",
+    "repo_rel": "fail/smm_bnc_2_coin.png"
+  },
+  {
+    "short": "okex_12",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_okex_perpetual_12/titan/s_pnl_-00003367_pnl2mdd_0.62_roe_-2.10_ffr_1.00_sp_-0.04_nflip_74_ret_-13.17_model_portfolio_okex_perpetual_12_default_20260514-20260613.png",
+    "repo_rel": "pass/okex_12_titan.png"
+  },
+  {
+    "short": "okex_12",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_okex_perpetual_12/coin/s_model_portfolio_okex_perpetual_12_pnlusd_-00003433_pnl2mdd_0.64_roe_-0.06_ffr_1.00_nordday_0_sp_-0.03_nflip_134_ret_-12.77__ms_Fu.Ok.__sde_False_tbis_120.png",
+    "repo_rel": "pass/okex_12_coin.png"
+  },
+  {
+    "short": "bybit_20",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_20/titan/s_pnl_+00020917_pnl2mdd_1.09_roe_2.66_ffr_0.74_sp_0.03_nflip_83_ret_16.73_model_portfolio_bybit_perpetual_20_default_20260514-20260613.png",
+    "repo_rel": "fail/bybit_20_titan.png"
+  },
+  {
+    "short": "bybit_20",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_20/coin/s_model_portfolio_bybit_perpetual_20_pnlusd_+00035592_pnl2mdd_2.06_roe_0.14_ffr_0.74_nordday_0_sp_0.05_nflip_2614_ret_27.46__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "fail/bybit_20_coin.png"
+  },
+  {
+    "short": "bybit_auto_3",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_auto_3/titan/s_pnl_+00063024_pnl2mdd_3.72_roe_6.48_ffr_0.74_sp_0.07_nflip_130_ret_28.92_model_portfolio_bybit_perpetual_auto_3_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_auto_3_titan.png"
+  },
+  {
+    "short": "bybit_auto_3",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_auto_3/coin/s_model_portfolio_bybit_perpetual_auto_3_pnlusd_+00059902_pnl2mdd_1.27_roe_0.18_ffr_0.73_nordday_0_sp_0.05_nflip_828_ret_29.12__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_auto_3_coin.png"
+  },
+  {
+    "short": "bnc_v4_4",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_v4_4/titan/s_pnl_-00001557_pnl2mdd_0.09_roe_-0.20_ffr_0.94_sp_-0.00_nflip_351_ret_-0.63_model_portfolio_binance_perpetual_v4_4_default_20260514-20260613.png",
+    "repo_rel": "fail/bnc_v4_4_titan.png"
+  },
+  {
+    "short": "bnc_v4_4",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_v4_4/coin/s_model_portfolio_binance_perpetual_v4_4_pnlusd_+00009772_pnl2mdd_1.03_roe_0.12_ffr_0.94_nordday_0_sp_0.02_nflip_2631_ret_3.64__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/bnc_v4_4_coin.png"
+  },
+  {
+    "short": "bnc_14",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_14/titan/s_pnl_+00002733_pnl2mdd_1.87_roe_3.77_ffr_1.00_sp_0.05_nflip_42_ret_15.85_model_portfolio_binance_perpetual_14_default_20260514-20260613.png",
+    "repo_rel": "pass/bnc_14_titan.png"
+  },
+  {
+    "short": "bnc_14",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_14/coin/s_model_portfolio_binance_perpetual_14_pnlusd_+00002426_pnl2mdd_1.59_roe_0.08_ffr_1.00_nordday_0_sp_0.04_nflip_122_ret_13.88__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bnc_14_coin.png"
+  },
+  {
+    "short": "bnc_8",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_8/titan/s_pnl_+00002468_pnl2mdd_0.89_roe_2.25_ffr_1.00_sp_0.03_nflip_57_ret_13.74_model_portfolio_binance_perpetual_8_default_20260514-20260613.png",
+    "repo_rel": "pass/bnc_8_titan.png"
+  },
+  {
+    "short": "bnc_8",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_8/coin/s_model_portfolio_binance_perpetual_8_pnlusd_+00001929_pnl2mdd_0.61_roe_0.04_ffr_1.00_nordday_0_sp_0.02_nflip_114_ret_10.77__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bnc_8_coin.png"
+  },
+  {
+    "short": "bybit_17",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_17/titan/s_pnl_+00014030_pnl2mdd_2.60_roe_4.73_ffr_0.94_sp_0.07_nflip_293_ret_5.53_model_portfolio_bybit_perpetual_17_default_20260514-20260613.png",
+    "repo_rel": "fail/bybit_17_titan.png"
+  },
+  {
+    "short": "bybit_17",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_bybit_perpetual_17/coin/s_model_portfolio_bybit_perpetual_17_pnlusd_+00016106_pnl2mdd_2.94_roe_0.17_ffr_0.93_nordday_0_sp_0.07_nflip_3920_ret_5.96__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "fail/bybit_17_coin.png"
+  },
+  {
+    "short": "fund_bnc_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_fund_binance_perpetual_2/titan/s_pnl_-00116775_pnl2mdd_0.55_roe_-2.76_ffr_0.96_sp_-0.03_nflip_5_ret_-33.51_model_portfolio_fund_binance_perpetual_2_default_20260514-20260613.png",
+    "repo_rel": "fail/fund_bnc_2_titan.png"
+  },
+  {
+    "short": "fund_bnc_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_fund_binance_perpetual_2/coin/s_model_portfolio_fund_binance_perpetual_2_pnlusd_-00084323_pnl2mdd_0.65_roe_-0.10_ffr_1.00_nordday_0_sp_-0.04_nflip_32_ret_-61.05__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/fund_bnc_2_coin.png"
+  },
+  {
+    "short": "bnc_1",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_1/titan/s_pnl_-00014618_pnl2mdd_0.71_roe_-2.71_ffr_0.94_sp_-0.05_nflip_75_ret_-9.28_model_portfolio_binance_perpetual_1_default_20260514-20260613.png",
+    "repo_rel": "fail/bnc_1_titan.png"
+  },
+  {
+    "short": "bnc_1",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_1/coin/s_model_portfolio_binance_perpetual_1_pnlusd_-00010418_pnl2mdd_0.62_roe_-0.09_ffr_0.93_nordday_0_sp_-0.03_nflip_9651_ret_-7.22__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/bnc_1_coin.png"
+  },
+  {
+    "short": "bnc_v1_1",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_v1_1/titan/s_pnl_+00007793_pnl2mdd_2.78_roe_3.22_ffr_0.89_sp_0.06_nflip_517_ret_6.75_model_portfolio_binance_perpetual_v1_1_default_20260514-20260613.png",
+    "repo_rel": "fail/bnc_v1_1_titan.png"
+  },
+  {
+    "short": "bnc_v1_1",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_v1_1/coin/s_model_portfolio_binance_perpetual_v1_1_pnlusd_+00003756_pnl2mdd_0.85_roe_0.13_ffr_0.89_nordday_0_sp_0.03_nflip_5174_ret_2.91__ms_Fu.Bi._Sp.Up.KRW__sde_False_tbis_120.png",
+    "repo_rel": "fail/bnc_v1_1_coin.png"
+  },
+  {
+    "short": "bnc_17",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_17/titan/s_pnl_+00045390_pnl2mdd_1.12_roe_3.80_ffr_0.97_sp_0.03_nflip_84_ret_16.53_model_portfolio_binance_perpetual_17_default_20260514-20260613.png",
+    "repo_rel": "fail/bnc_17_titan.png"
+  },
+  {
+    "short": "bnc_17",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_random20_sim/model_portfolio_binance_perpetual_17/coin/s_model_portfolio_binance_perpetual_17_pnlusd_+00063986_pnl2mdd_1.56_roe_0.21_ffr_0.97_nordday_0_sp_0.04_nflip_966_ret_22.70__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/bnc_17_coin.png"
+  },
+  {
+    "short": "bnc_auto_8",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/titan_vs_coin_sim_v6/model_portfolio_binance_perpetual_auto_8/titan/s_pnl_+00013139_pnl2mdd_0.84_roe_2.11_ffr_0.77_sp_0.04_nflip_171_ret_6.72_model_portfolio_binance_perpetual_auto_8_default_20260514-20260613.png",
+    "repo_rel": "fail/bnc_auto_8_titan.png"
+  },
+  {
+    "short": "bnc_auto_8",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/titan_vs_coin_sim_v6/model_portfolio_binance_perpetual_auto_8/coin_fix5/s_model_portfolio_binance_perpetual_auto_8_fix5_pnlusd_+00006895_pnl2mdd_0.34_roe_0.06_ffr_0.76_nordday_0_sp_0.02_nflip_5199_ret_3.12__dsc_30_ms_Fu.Bi.__sde_False_tbis_120_uds_False.png",
+    "repo_rel": "fail/bnc_auto_8_coin.png"
+  },
+  {
+    "short": "binance_perpetual_18",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_18/titan/s_pnl_-00001466_pnl2mdd_0.62_roe_-1.69_ffr_1.00_sp_-0.02_nflip_61_ret_-8.37_model_portfolio_binance_perpetual_18_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_18_titan.png"
+  },
+  {
+    "short": "binance_perpetual_18",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_18/coin/s_model_portfolio_binance_perpetual_18_pnlusd_-00002381_pnl2mdd_0.61_roe_-0.07_ffr_1.00_nordday_0_sp_-0.03_nflip_103_ret_-16.04__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_18_coin.png"
+  },
+  {
+    "short": "binance_perpetual_12",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_12/titan/s_pnl_-00000353_pnl2mdd_0.22_roe_-0.50_ffr_1.00_sp_-0.01_nflip_192_ret_-3.84_model_portfolio_binance_perpetual_12_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_12_titan.png"
+  },
+  {
+    "short": "binance_perpetual_12",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_12/coin/s_model_portfolio_binance_perpetual_12_pnlusd_-00000086_pnl2mdd_0.06_roe_-0.00_ffr_1.00_nordday_0_sp_-0.00_nflip_74_ret_-0.97__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_12_coin.png"
+  },
+  {
+    "short": "binance_perpetual_2",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_2/titan/s_pnl_+00000954_pnl2mdd_2.09_roe_0.93_ffr_1.00_sp_0.04_nflip_135_ret_8.29_model_portfolio_binance_perpetual_2_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_2_titan.png"
+  },
+  {
+    "short": "binance_perpetual_2",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_2/coin/s_model_portfolio_binance_perpetual_2_pnlusd_-00000912_pnl2mdd_0.56_roe_-0.03_ffr_1.00_nordday_0_sp_-0.03_nflip_92_ret_-8.10__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_2_coin.png"
+  },
+  {
+    "short": "smm_binance_perpetual_13",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_smm_binance_perpetual_13/titan/s_pnl_+00001386_pnl2mdd_0.03_roe_0.18_ffr_0.94_sp_0.00_nflip_181_ret_0.82_model_smm_binance_perpetual_13_default_20260514-20260613.png",
+    "repo_rel": "fail/smm_binance_perpetual_13_titan.png"
+  },
+  {
+    "short": "smm_binance_perpetual_13",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_smm_binance_perpetual_13/coin/s_model_smm_binance_perpetual_13_pnlusd_+00004156_pnl2mdd_0.09_roe_0.03_ffr_0.94_nordday_0_sp_0.00_nflip_982_ret_2.64__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/smm_binance_perpetual_13_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_18",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_18/titan/s_pnl_-00007126_pnl2mdd_0.50_roe_-2.26_ffr_0.80_sp_-0.02_nflip_152_ret_-13.18_model_portfolio_bybit_perpetual_18_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_18_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_18",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_18/coin/s_model_portfolio_bybit_perpetual_18_pnlusd_-00005498_pnl2mdd_0.42_roe_-0.09_ffr_0.82_nordday_0_sp_-0.02_nflip_1066_ret_-11.86__ms_Fu.By._Sp.By.USDT__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_18_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_13",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_13/titan/s_pnl_-00001854_pnl2mdd_0.17_roe_-0.31_ffr_0.61_sp_-0.01_nflip_98_ret_-1.37_model_portfolio_bybit_perpetual_13_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_13_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_13",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_13/coin/s_model_portfolio_bybit_perpetual_13_pnlusd_-00000448_pnl2mdd_0.05_roe_-0.00_ffr_0.63_nordday_0_sp_-0.00_nflip_13786_ret_-0.44__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_13_coin.png"
+  },
+  {
+    "short": "okex_perpetual_3",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_3/titan/s_pnl_-00015618_pnl2mdd_0.86_roe_-3.26_ffr_0.70_sp_-0.06_nflip_48_ret_-38.84_model_portfolio_okex_perpetual_3_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_3_titan.png"
+  },
+  {
+    "short": "okex_perpetual_3",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_3/coin/s_model_portfolio_okex_perpetual_3_pnlusd_+00006966_pnl2mdd_1.20_roe_0.21_ffr_0.68_nordday_0_sp_0.04_nflip_42336_ret_1.52__ms_Fu.Ok.__sde_False.png",
+    "repo_rel": "fail/okex_perpetual_3_coin.png"
+  },
+  {
+    "short": "okex_perpetual_4",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_4/titan/s_pnl_+00004643_pnl2mdd_0.70_roe_1.42_ffr_0.96_sp_0.02_nflip_130_ret_4.13_model_portfolio_okex_perpetual_4_default_20260514-20260613.png",
+    "repo_rel": "pass/okex_perpetual_4_titan.png"
+  },
+  {
+    "short": "okex_perpetual_4",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_4/coin/s_model_portfolio_okex_perpetual_4_pnlusd_+00006477_pnl2mdd_0.61_roe_0.06_ffr_0.96_nordday_0_sp_0.02_nflip_1836_ret_5.14__ms_Fu.Ok.__sde_False_tbis_120.png",
+    "repo_rel": "pass/okex_perpetual_4_coin.png"
+  },
+  {
+    "short": "okex_perpetual_11",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_11/titan/s_pnl_-00002432_pnl2mdd_0.07_roe_-0.22_ffr_0.69_sp_-0.00_nflip_450_ret_-0.17_model_portfolio_okex_perpetual_11_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_11_titan.png"
+  },
+  {
+    "short": "okex_perpetual_11",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_11/coin/s_model_portfolio_okex_perpetual_11_pnlusd_-00028665_pnl2mdd_0.54_roe_-0.13_ffr_0.67_nordday_0_sp_-0.03_nflip_10598_ret_-2.33__ms_Fu.Ok.__sde_False.png",
+    "repo_rel": "fail/okex_perpetual_11_coin.png"
+  },
+  {
+    "short": "okex_perpetual_13",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_13/titan/s_pnl_+00006164_pnl2mdd_2.10_roe_3.90_ffr_1.00_sp_0.06_nflip_137_ret_7.34_model_portfolio_okex_perpetual_13_default_20260514-20260613.png",
+    "repo_rel": "pass/okex_perpetual_13_titan.png"
+  },
+  {
+    "short": "okex_perpetual_13",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_13/coin/s_model_portfolio_okex_perpetual_13_pnlusd_+00006323_pnl2mdd_1.92_roe_0.13_ffr_1.00_nordday_0_sp_0.05_nflip_305_ret_7.16__ms_Fu.Ok.__sde_False_tbis_120.png",
+    "repo_rel": "pass/okex_perpetual_13_coin.png"
+  },
+  {
+    "short": "binance_perpetual_16",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_16/titan/s_pnl_+00001965_pnl2mdd_1.23_roe_1.25_ffr_1.00_sp_0.04_nflip_305_ret_4.11_model_portfolio_binance_perpetual_16_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_16_titan.png"
+  },
+  {
+    "short": "binance_perpetual_16",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_16/coin/s_model_portfolio_binance_perpetual_16_pnlusd_+00001798_pnl2mdd_1.10_roe_0.04_ffr_1.00_nordday_0_sp_0.03_nflip_164_ret_3.70__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_16_coin.png"
+  },
+  {
+    "short": "fund_binance_perpetual_4",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_fund_binance_perpetual_4/titan/s_pnl_+00043189_pnl2mdd_1.42_roe_3.80_ffr_0.95_sp_0.04_nflip_73_ret_19.80_model_portfolio_fund_binance_perpetual_4_default_20260514-20260613.png",
+    "repo_rel": "fail/fund_binance_perpetual_4_titan.png"
+  },
+  {
+    "short": "fund_binance_perpetual_4",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_fund_binance_perpetual_4/coin/s_model_portfolio_fund_binance_perpetual_4_pnlusd_+00013808_pnl2mdd_1.03_roe_0.04_ffr_0.98_nordday_0_sp_0.03_nflip_328_ret_14.06__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/fund_binance_perpetual_4_coin.png"
+  },
+  {
+    "short": "fund_binance_perpetual_5",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_fund_binance_perpetual_5/titan/s_pnl_-00059353_pnl2mdd_0.59_roe_-3.54_ffr_0.96_sp_-0.04_nflip_161_ret_-6.43_model_portfolio_fund_binance_perpetual_5_default_20260514-20260613.png",
+    "repo_rel": "fail/fund_binance_perpetual_5_titan.png"
+  },
+  {
+    "short": "fund_binance_perpetual_5",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_fund_binance_perpetual_5/coin/s_model_portfolio_fund_binance_perpetual_5_pnlusd_-00005716_pnl2mdd_0.28_roe_-0.02_ffr_1.00_nordday_0_sp_-0.01_nflip_187_ret_-2.14__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/fund_binance_perpetual_5_coin.png"
+  },
+  {
+    "short": "binance_perpetual_l3",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_l3/titan/s_pnl_+00000126_pnl2mdd_0.10_roe_0.22_ffr_1.00_sp_0.00_nflip_69_ret_1.98_model_portfolio_lt_binance_perpetual_l3_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_l3_titan.png"
+  },
+  {
+    "short": "binance_perpetual_l3",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_l3/coin/s_model_portfolio_binance_perpetual_l3_pnlusd_-00000210_pnl2mdd_0.24_roe_-0.01_ffr_1.00_nordday_0_sp_-0.01_nflip_20_ret_-20.16__ms_Fu.Bi._Sp.Bi.USDT__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_l3_coin.png"
+  },
+  {
+    "short": "okex_perpetual_15",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_15/titan/s_pnl_+00003914_pnl2mdd_0.36_roe_0.96_ffr_0.85_sp_0.01_nflip_89_ret_6.22_model_portfolio_okex_perpetual_15_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_15_titan.png"
+  },
+  {
+    "short": "okex_perpetual_15",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_15/coin/s_model_portfolio_okex_perpetual_15_pnlusd_+00006653_pnl2mdd_0.53_roe_0.05_ffr_0.85_nordday_0_sp_0.02_nflip_2461_ret_11.51__ms_Fu.Ok.__sde_False_tbis_120.png",
+    "repo_rel": "fail/okex_perpetual_15_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_19",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_19/titan/s_pnl_-00000727_pnl2mdd_0.05_roe_-0.17_ffr_0.91_sp_-0.00_nflip_76_ret_-0.71_model_portfolio_bybit_perpetual_19_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_19_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_19",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_19/coin/s_model_portfolio_bybit_perpetual_19_pnlusd_-00000096_pnl2mdd_0.01_roe_-0.00_ffr_0.89_nordday_0_sp_-0.00_nflip_3566_ret_-0.10__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_19_coin.png"
+  },
+  {
+    "short": "binance_perpetual_20",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_20/titan/s_pnl_+00002134_pnl2mdd_1.63_roe_2.99_ffr_1.00_sp_0.04_nflip_70_ret_14.76_model_portfolio_binance_perpetual_20_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_20_titan.png"
+  },
+  {
+    "short": "binance_perpetual_20",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_20/coin/s_model_portfolio_binance_perpetual_20_pnlusd_+00001972_pnl2mdd_1.33_roe_0.09_ffr_1.00_nordday_0_sp_0.03_nflip_115_ret_13.59__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_20_coin.png"
+  },
+  {
+    "short": "binance_perpetual_21",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_21/titan/s_pnl_+00054030_pnl2mdd_0.92_roe_3.50_ffr_0.97_sp_0.04_nflip_100_ret_9.56_model_portfolio_binance_perpetual_21_default_20260514-20260613.png",
+    "repo_rel": "fail/binance_perpetual_21_titan.png"
+  },
+  {
+    "short": "binance_perpetual_21",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_21/coin/s_model_portfolio_binance_perpetual_21_pnlusd_+00073766_pnl2mdd_1.29_roe_0.18_ffr_0.97_nordday_0_sp_0.05_nflip_1330_ret_12.02__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/binance_perpetual_21_coin.png"
+  },
+  {
+    "short": "binance_perpetual_22",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_22/titan/s_pnl_+00234531_pnl2mdd_5.36_roe_11.50_ffr_0.95_sp_0.10_nflip_118_ret_33.43_model_portfolio_binance_perpetual_22_default_20260514-20260613.png",
+    "repo_rel": "pass/binance_perpetual_22_titan.png"
+  },
+  {
+    "short": "binance_perpetual_22",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_22/coin/s_model_portfolio_binance_perpetual_22_pnlusd_+00226842_pnl2mdd_4.77_roe_0.40_ffr_0.95_nordday_0_sp_0.09_nflip_1289_ret_29.45__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_22_coin.png"
+  },
+  {
+    "short": "binance_perpetual_v1_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v1_2/titan/s_pnl_+00150356_pnl2mdd_9.05_roe_18.29_ffr_0.93_sp_0.20_nflip_248_ret_30.83_model_portfolio_binance_perpetual_v1_2_default_20260514-20260613.png",
+    "repo_rel": "fail/binance_perpetual_v1_2_titan.png"
+  },
+  {
+    "short": "binance_perpetual_v1_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v1_2/coin/s_model_portfolio_binance_perpetual_v1_2_pnlusd_+00082618_pnl2mdd_4.69_roe_0.34_ffr_0.89_nordday_0_sp_0.13_nflip_2197_ret_20.77__ms_Fu.Bi.__sde_False.png",
+    "repo_rel": "fail/binance_perpetual_v1_2_coin.png"
+  },
+  {
+    "short": "binance_perpetual_v2_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v2_2/titan/s_pnl_+00069830_pnl2mdd_1.26_roe_4.23_ffr_0.93_sp_0.07_nflip_330_ret_10.57_model_portfolio_binance_perpetual_v2_2_default_20260514-20260613.png",
+    "repo_rel": "fail/binance_perpetual_v2_2_titan.png"
+  },
+  {
+    "short": "binance_perpetual_v2_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v2_2/coin/s_model_portfolio_binance_perpetual_v2_2_pnlusd_+00057827_pnl2mdd_0.98_roe_0.38_ffr_0.92_nordday_0_sp_0.05_nflip_3645_ret_8.55__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "fail/binance_perpetual_v2_2_coin.png"
+  },
+  {
+    "short": "binance_perpetual_v3_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v3_2/titan/s_pnl_-00000915_pnl2mdd_0.14_roe_-0.24_ffr_0.87_sp_-0.00_nflip_14_ret_-5.37_model_portfolio_binance_perpetual_v3_2_default_20260514-20260613.png",
+    "repo_rel": "fail/binance_perpetual_v3_2_titan.png"
+  },
+  {
+    "short": "binance_perpetual_v3_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v3_2/coin/s_model_portfolio_binance_perpetual_v3_2_pnlusd_+00014747_pnl2mdd_0.87_roe_0.15_ffr_0.91_nordday_0_sp_0.03_nflip_21705_ret_0.82__ms_Fu.Bi._Sp.Bi.USDT__sde_False_tbis_120.png",
+    "repo_rel": "fail/binance_perpetual_v3_2_coin.png"
+  },
+  {
+    "short": "binance_perpetual_v5_3",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v5_3/titan/s_pnl_+00000105_pnl2mdd_0.18_roe_0.18_ffr_1.00_sp_0.01_nflip_144_ret_2.84_model_portfolio_binance_perpetual_v5_3_default_20260514-20260612.png",
+    "repo_rel": "pass/binance_perpetual_v5_3_titan.png"
+  },
+  {
+    "short": "binance_perpetual_v5_3",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v5_3/coin/s_model_portfolio_binance_perpetual_v5_3_pnlusd_+00000505_pnl2mdd_0.93_roe_0.03_ffr_1.00_nordday_0_sp_0.03_nflip_54_ret_13.98__ms_Fu.Bi.__sde_False_tbis_120.png",
+    "repo_rel": "pass/binance_perpetual_v5_3_coin.png"
+  },
+  {
+    "short": "binance_perpetual_v6_4",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v6_4/titan/s_pnl_+00013167_pnl2mdd_5.40_roe_4.21_ffr_1.00_sp_0.10_nflip_133_ret_13.81_model_portfolio_binance_perpetual_v6_4_default_20260514-20260613.png",
+    "repo_rel": "fail/binance_perpetual_v6_4_titan.png"
+  },
+  {
+    "short": "binance_perpetual_v6_4",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_binance_perpetual_v6_4/coin/s_model_portfolio_binance_perpetual_v6_4_pnlusd_+00010809_pnl2mdd_3.63_roe_0.09_ffr_1.00_nordday_0_sp_0.07_nflip_240_ret_10.64__ms_Fu.Bi._Sp.Bi.USDT__sde_False_tbis_120.png",
+    "repo_rel": "fail/binance_perpetual_v6_4_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_2",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_2/titan/s_pnl_+00000805_pnl2mdd_2.06_roe_1.34_ffr_1.00_sp_0.05_nflip_163_ret_11.42_model_portfolio_bybit_perpetual_2_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_2_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_2",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_2/coin/s_model_portfolio_bybit_perpetual_2_pnlusd_+00000975_pnl2mdd_2.65_roe_0.05_ffr_1.00_nordday_0_sp_0.05_nflip_82_ret_14.07__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_2_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_3",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_3/titan/s_pnl_+00005663_pnl2mdd_1.31_roe_1.83_ffr_0.85_sp_0.03_nflip_203_ret_3.15_model_portfolio_bybit_perpetual_3_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_3_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_3",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_3/coin/s_model_portfolio_bybit_perpetual_3_pnlusd_+00006680_pnl2mdd_1.33_roe_0.08_ffr_0.83_nordday_0_sp_0.03_nflip_6252_ret_3.96__ms_Fu.By._Sp.By.USDT__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_3_coin.png"
+  },
+  {
+    "short": "bybit_perpetual_5",
+    "status": "PASS",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_5/titan/s_pnl_+00011692_pnl2mdd_2.58_roe_6.63_ffr_0.80_sp_0.07_nflip_461_ret_10.85_model_portfolio_bybit_perpetual_5_default_20260514-20260613.png",
+    "repo_rel": "pass/bybit_perpetual_5_titan.png"
+  },
+  {
+    "short": "bybit_perpetual_5",
+    "status": "PASS",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_bybit_perpetual_5/coin/s_model_portfolio_bybit_perpetual_5_pnlusd_+00013378_pnl2mdd_3.22_roe_0.53_ffr_0.79_nordday_0_sp_0.07_nflip_3775_ret_11.97__ms_Fu.By.__sde_False_tbis_120.png",
+    "repo_rel": "pass/bybit_perpetual_5_coin.png"
+  },
+  {
+    "short": "okex_perpetual_v1_1",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v1_1/titan/s_pnl_-00002485_pnl2mdd_0.35_roe_-0.81_ffr_0.66_sp_-0.02_nflip_301_ret_-1.94_model_portfolio_okex_perpetual_v1_1_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_v1_1_titan.png"
+  },
+  {
+    "short": "okex_perpetual_v1_1",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v1_1/coin/s_model_portfolio_okex_perpetual_v1_1_pnlusd_+00002517_pnl2mdd_0.41_roe_0.03_ffr_0.73_nordday_0_sp_0.02_nflip_4651_ret_1.54__ms_Fu.Ok._Sp.Ok.USDT__sde_False.png",
+    "repo_rel": "fail/okex_perpetual_v1_1_coin.png"
+  },
+  {
+    "short": "okex_perpetual_v2_2",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v2_2/titan/s_pnl_+00011947_pnl2mdd_1.23_roe_2.94_ffr_0.68_sp_0.04_nflip_141_ret_6.83_model_portfolio_okex_perpetual_v2_2_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_v2_2_titan.png"
+  },
+  {
+    "short": "okex_perpetual_v2_2",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v2_2/coin/s_model_portfolio_okex_perpetual_v2_2_pnlusd_+00007858_pnl2mdd_0.67_roe_0.19_ffr_0.67_nordday_0_sp_0.03_nflip_6136_ret_4.73__ms_Fu.Ok.__sde_False_tbis_120.png",
+    "repo_rel": "fail/okex_perpetual_v2_2_coin.png"
+  },
+  {
+    "short": "okex_perpetual_v2_2_20241220",
+    "status": "FAIL",
+    "side": "titan",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v2_2_20241220/titan/s_pnl_+00072433_pnl2mdd_0.80_roe_2.23_ffr_0.73_sp_0.02_nflip_156_ret_3.30_model_portfolio_okex_perpetual_v2_2_default_20260514-20260613.png",
+    "repo_rel": "fail/okex_perpetual_v2_2_20241220_titan.png"
+  },
+  {
+    "short": "okex_perpetual_v2_2_20241220",
+    "status": "FAIL",
+    "side": "coin",
+    "local_path": "/remote/iosg/home-11/zijin/tmp/coin_prod48_sim/model_portfolio_okex_perpetual_v2_2_20241220/coin/s_model_portfolio_okex_perpetual_v2_2_20241220_pnlusd_+00000000_pnl2mdd_0_roe_None_ffr_None_nordday_0_sp_0.00_nflip_0_ret_0.00__ms_Fu.Ok.__sde_False.png",
+    "repo_rel": "fail/okex_perpetual_v2_2_20241220_coin.png"
+  }
+]
