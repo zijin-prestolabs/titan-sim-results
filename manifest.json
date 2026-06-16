@@ -656,5 +656,19 @@
   "side": "coin",
   "local_path": "/remote/iosg/home-11/zijin/titan_migration/coin_prod48_sim/model_portfolio_fund_bybit_perpetual_be_1/coin/s_model_portfolio_fund_bybit_perpetual_be_1_pnlusd_+00015297_pnl2mdd_1.45_roe_0.07_ffr_0.98_nordday_0_sp_0.03_nflip_239_ret_8.60__ms_Fu.By._Fu.Bi.USDT__sde_False_tbis_120.png",
   "repo_rel": "fail/fund_bybit_perpetual_be_1_coin.png"
+ },
+ {
+  "short": "bybit_perpetual_8",
+  "status": "PASS",
+  "side": "titan",
+  "local_path": "/remote/iosg/home-11/zijin/tmp/sim_bybit8_validate/s_pnl_+00000300_pnl2mdd_0.21_roe_0.24_ffr_0.99_sp_0.01_nflip_84_ret_2.96_model_portfolio_bybit_perpetual_8_default_20260514-20260613.png",
+  "repo_rel": "pass/bybit_perpetual_8_titan.png"
+ },
+ {
+  "short": "bybit_perpetual_8",
+  "status": "PASS",
+  "side": "coin",
+  "local_path": "/remote/iosg/home-11/zijin/titan_migration/coin_random20_sim/model_portfolio_bybit_perpetual_8/coin/s_model_portfolio_bybit_perpetual_8_pnlusd_+00000870_pnl2mdd_0.58_roe_0.04_ffr_0.99_nordday_0_sp_0.02_nflip_85_ret_6.93__ms_Fu.By.__sde_False_tbis_120.png",
+  "repo_rel": "pass/bybit_perpetual_8_coin.png"
  }
 ]
